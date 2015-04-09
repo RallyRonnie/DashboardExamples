@@ -6,11 +6,11 @@ This is a common dashboard used to support sprint planning activities. It contai
 
 Construction Instructions:
 * Create a new Page called "Iteration or Sprint Planning"
-* Set Page format to 2 column, left wide, right narrow
-* Add APP Catalog "Iteration Planning Board" to wide left.
+* Set Page format to 2 column, left wide, right narrow.
+* Add APP Catalog "Iteration Planning Board" to left column.
 * Add APP Catalog "Custom HTML" to right column.
-* Paste code from https://github.com/RallyRonnie/TeamCapacityGrid/blob/master/deploy/App.html
-* Set "Title" to "TeamCapacity" for example.
+* Paste code from https://github.com/RallyRonnie/TeamCapacityGrid/blob/master/deploy/App.html into the HTML box.
+* Set "Title" to "Team Capacity" for example.
 * Save
 
 ## Screen Shot
