@@ -1,4 +1,4 @@
-Sprint Planning Dashboard
+PI Burnup Dashboard
 =========================
 
 ## Overview
